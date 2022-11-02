@@ -1,0 +1,8 @@
+notcode,doesn't look like code to us - ignore
+codeunknown,this looks like code but we don't know what kind exactly
+codecpp,it's C++ or C code
+codecsharp,.Net code
+codepython,you know what it is
+codehtml,markup for the web
+codejs,javescript or type script code
+codejava,this is true java code
